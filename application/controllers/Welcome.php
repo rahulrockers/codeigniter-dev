@@ -60,7 +60,7 @@ class Welcome extends CI_Controller {
 	}
 	
 	public function test(){
-		echo "HHello";
+		echo "HHello Rahul";
 	}
 }
 
