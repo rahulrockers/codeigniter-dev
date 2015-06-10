@@ -1,6 +1,6 @@
 <?php
 /**
- * CodeIgniter-dev-github
+ * CodeIgniter-dev-github develop
  *
  * An open source application development framework for PHP 5.2.4 or newer
  *
